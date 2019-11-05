@@ -9,5 +9,4 @@ let adventure={
     Level: 2,
 }
 
-advanture.Gold += 50
 console.log(advanture.Gold)
