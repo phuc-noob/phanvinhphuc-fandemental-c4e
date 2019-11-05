@@ -9,4 +9,9 @@ let adventure={
     Level: 2,
 }
 
-console.log(advanture.Gold)
+adventure.Gold +=50
+console.log(adventure.Gold)
+adventure.Backpack.push('FlintStone')
+console.log(adventure.Backpack)
+adventure.Pocket=['MonsterDex','Flashlight']
+console.log(adventure.Pocket)
