@@ -1,0 +1,85 @@
+.wrapper{
+    display:flex;
+    flex-flow: row wrap;
+}
+.box_logo{
+    width:15%;    
+    height:80px;
+    text-align: center;
+    line-height: 90px;
+    font-size: 30px;
+}
+.box_website{
+    width: 85%;
+    height: 80px;
+    text-align: center;
+    font-size: 30px;
+    line-height: 90px;
+}
+.box_menu{
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 40px;
+    font-family: 'Abril Fatface', cursive;
+}
+.box_section{
+    width: 33.3333333333%;
+    height: 130px;
+    text-align:center ;
+    line-height: 100px;
+    font-size: 40px;
+    font-family: 'Sacramento', cursive;
+}
+.box_content{
+    height: 700px;
+    width: 80%;
+    text-align: center;
+    line-height: 600px;
+    font-size: 50px;
+}
+.box_sideBar{
+    height: 700px;
+    width: 20%;
+    text-align: center;
+    line-height: 700px;
+    font-size: 50px;
+}
+.box_footer{
+    color: deeppink;
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+    line-height:50px ;
+}
+
+/*        LIST BACKGROUND COLOR    */
+.bg_tomato{
+    background-color: tomato;
+}
+.bg_darkred{
+    background-color: darkred;
+}
+.bg_deepskyblue{
+    background-color: deepskyblue;
+}
+.bg-greenyellow{
+    background-color: greenyellow;
+}
+.bg-hotpink{
+    background-color: hotpink;
+}
+.bg-rgb{
+    background-color: rgb(197, 27, 120);
+}
+.bg_peru{
+    background-color: peru;
+}
+.bg_back{
+    background-color: black;
+    color: deeppink;
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+    line-height:50px ;
+}
